@@ -6,6 +6,8 @@
 
 忘了怎么用的时候说一句 `ponytail help` 就行。
 
+![速查卡：6 个技能一张卡说完](screenshots/hero.png)
+
 ## 为什么有它
 
 这套东西一共 6 个技能、3 档强度、一堆命令。用过两次之后就忘了 `/ponytail-audit` 和 `/ponytail-debt` 到底差在哪。

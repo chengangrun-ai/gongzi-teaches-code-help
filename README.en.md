@@ -6,6 +6,8 @@ An agent skill that prints **every mode, skill, and command** in one card, plus 
 
 Forgot how it works? Say `ponytail help`.
 
+![速查卡：6 个技能一张卡说完](screenshots/hero.png)
+
 ## Why it exists
 
 Six skills, three intensity levels, a pile of commands. Two uses in, nobody remembers the difference between `/ponytail-audit` and `/ponytail-debt`.
